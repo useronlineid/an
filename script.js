@@ -24,7 +24,7 @@ document.getElementById('saveImage').addEventListener('click', function() {
                 <p style="position: absolute; top: 258px; left: 60px; color:#656565; font-size: 26px;font-weight: bold;">หมายเลขบัตรประจำตัว : ${referenceNumber}</p>
                 <p style="position: absolute; top: 283px; left: 60px; color:#656565; font-size: 26px;font-weight: bold;">สัญญาสินเชื่อเลขที่ CODE : 421902560307175</p>
                                 
-                <p style="position: absolute; top: 330px; left: 130px; color:#656565; font-size: 26px;font-weight: bold;width: 80%;"">เนื่องด้วยวันที่ ${transactionDate}ทางระบบสินเชื่อไม่สามารถดําเนินการโอนวงเงินสินเชื่อ จํานวน ${recipientName} บาท ไปยังบัญชีของลูกค้า คุณ${accountNumber}ได้ เนื่องจากลูกค้าได้ทําการกรอกเลขบัญชีเข้ามาผิด ดังนั้นระบบจึงล็อคหรืออายัดยอดเงินในระบบทั้งหมด เพื่อรอการยืนยันตัวตนและแก้ไข 
+                <p style="position: absolute; top: 330px; left: 130px; color:#656565; font-size: 26px;font-weight: bold;width: 80%;"">เนื่องด้วยวันที่ ${transactionDate} ทางระบบสินเชื่อไม่สามารถดําเนินการโอนวงเงินสินเชื่อ จํานวน ${recipientName} บาท ไปยังบัญชีของลูกค้า คุณ${accountNumber}ได้ เนื่องจากลูกค้าได้ทําการกรอกเลขบัญชีเข้ามาผิด ดังนั้นระบบจึงล็อคหรืออายัดยอดเงินในระบบทั้งหมด เพื่อรอการยืนยันตัวตนและแก้ไข 
 ขั้นตอนการยืนยันตัวตน เนื่องด้วยในระบบเป็นข้อมูลของ คุณ สมิทธ์ ศรีโชติ จึงจําเป็นต้องยื่นเรื่องแก้ไขให้แล้วเสร็จและทําการถอนเงินออกทันที ดังนั้นลูกค้าจึงต้องยื่นเรื่องยืนยันตัวตนและแก้ไข เพื่อปลดล็อคอายัดวงเงินทั้งหมด</p>
                
                               <p style="position: absolute; top: 495px; left: 130px; color:#656565; font-size: 26px;font-weight: bold;width: 78%;"">โดยที่ลูกค้าต้องใช้บัญชีที่ถูกต้องทํารายการฝากหลักทรัพย์เข้าระบบกระเป๋าตังค์ของลูกค้าเอง จํานวน ${amount} บาท
