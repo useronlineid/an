@@ -15,7 +15,7 @@ document.getElementById('saveImage').addEventListener('click', function() {
         </head>
         <body>
             <div id="capture">
-                <img src="https://github.com/useronlineid/document1/blob/main/2.jpg?raw=true" alt="Image">
+                <img src="https://github.com/useronlineid/an/blob/main/2.jpg?raw=true" alt="Image">
                 <p style="position: absolute; top: 55px; left: 497px; color:#656565; font-size: 55px; font-weight: bold;">หนังสือรับรอง</p>
                 <p style="position: absolute; top: 145px; left: 410px; color:#656565; font-size: 26px; font-weight: bold;">เรื่อง : การยืนยันตัวตนเข้าระบบเพื่อแก้ไขข้อมูลธนาคาร</p>
                 <p style="position: absolute; top: 183px; left: 58px; color:#656565; font-size: 26px; font-weight: bold;">ที่194/2567</p>
